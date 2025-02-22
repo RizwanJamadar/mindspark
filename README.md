@@ -3,6 +3,8 @@
 ## 🚀 Overview
 MindSpark is an interactive and engaging quiz application built with React. It features multiple-choice and integer-based questions, real-time countdown timers, a scoring system, and a quiz history tracker. The application also includes gamification elements such as confetti effects, encouraging badges, and sound effects to enhance the user experience.
 
+## [Live Link](https://mindspark-29534.web.app/)  
+
 ## ✨ Features
 - 🧠 **Dynamic Questions**: Supports both multiple-choice and integer-based questions.
 - ⏳ **Countdown Timer**: Ensures users answer within a given time limit.
